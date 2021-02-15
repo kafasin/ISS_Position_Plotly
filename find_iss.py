@@ -16,4 +16,5 @@ def find_iss():
     fig.show()
 
 
-find_iss()
+if __name__ == '__main__':
+    find_iss()
